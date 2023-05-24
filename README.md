@@ -1,15 +1,14 @@
-Tool run command 
-
-  pkg update 
-  pkg upgrade
-  pkg install git 
-  pkg install python
-  pkg install python3
-  git clone https://github.com/cyberarmy0033/cyber-cloning
-  cd cyber-cloning
-  python3 cyber.py
+Tool run command <br> <br> <br>
+pkg update <br>
+pkg upgrade <br>
+pkg install git <br>
+pkg install python <br>
+pkg install python3 <br>
+git clone https://github.com/cyberarmy0033/cyber-cloning <br>
+cd cyber-cloning <br>
+python3 cyber.py <br> <br> <br>
   
   
-For any help
-  https://www.facebook.com/Cyber.Army0033
+For any help <br>
+https://www.facebook.com/Cyber.Army0033
   
